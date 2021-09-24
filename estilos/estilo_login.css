@@ -1,0 +1,105 @@
+body
+{
+	width: 99%;
+	text-align: center;
+	background-color: white;
+}
+
+body .logo
+{
+	width: 350px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+body .login
+{
+	width: 35%;
+	height: 280px;
+	margin: auto;
+	margin-bottom: 60px;
+	text-align: center;
+	background-color: white;
+	border-color: black;
+	border-radius: 15px;
+	box-shadow: 1px 10px 50px 20px black;
+}
+
+body .login h2
+{
+	font-size: 20px;
+	font-family: Tahona, Arial, Hevetica, sans-serif;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+body .login .login1
+{
+	width: 80%;
+	margin: auto;
+	background-color: white;
+	border-radius: 30px;
+	border-color: orange;
+	height: 150px;
+}
+
+body .login .login1 .user
+{
+	width: 2px;
+	height: 5px;
+	margin: 1px;
+}
+
+body .login .login1 .user .caja
+{
+	width: 92%;
+	height: 24px;
+	float: left;
+	margin-left: 0px;
+	border-radius: 30px;
+	border-color: orange;
+}
+
+body .login .login1 .user .img_user
+{
+	width: 30px;
+	margin-right: 0px;
+	float: right;
+	border-radius: 30px;
+	
+}
+
+body .login .login1 .passw
+{
+	width: 2px;
+	height: 5px;
+	margin: 1px;
+	border-radius: 30px;
+	border-color: orange;
+}
+
+body .login .login1 .passw .img_pass
+{
+	width: 30px;
+	margin: 1px;
+	border-radius: 30px;
+	float: right;
+}
+
+body .login .login1 .passw .caja1
+{
+	width: 92%;
+	height: 24px;
+	float: left;
+	margin-left: 0px;
+	border-radius: 30px;
+	border-color: orange;
+}
+body .login .enviar
+{
+	width: 100px;
+	float: center;
+	height: 30px;
+	border-radius: 15px;
+	margin-top: 13px;
+}
