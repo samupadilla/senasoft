@@ -1,4 +1,4 @@
- <?php
+<?php
 require("conexion.php");
 
 class Hospital extends Conexion
